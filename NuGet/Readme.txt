@@ -4,6 +4,16 @@ LINQ to DB 1.0.7.5  Release Notes
 Welcome to the release notes for LINQ to DB 1.0.7.5
 
 
+
+What's new in 1.0.7.5-mdvtj.1
+-----------------------------
+
+Added pull requests:
+#367 Rebind command return parameters (https://github.com/linq2db/linq2db/pull/367)
+#369 Add missing extension method ExecuteProc<T> (https://github.com/linq2db/linq2db/pull/369)
+
+
+
 What's new in 1.0.7.5
 ---------------------
 

@@ -4,6 +4,13 @@ LINQ to DB 1.0.7.5  Release Notes
 Welcome to the release notes for LINQ to DB 1.0.7.5
 
 
+What's new in 1.0.7.5-mdvtj.2
+-----------------------------
+
+Added fix:
+#228 Bug in Oracle-Where-In with more than 1000 elements (https://github.com/linq2db/linq2db/issues/228)
+
+
 
 What's new in 1.0.7.5-mdvtj.1
 -----------------------------
